@@ -1,8 +1,8 @@
 SHORT SUMMARY,
 ---------------------------------------------------------------------------------------
 THIS REPOSITRY FOR---->
-1>I CAN DO HELP IN ANY OF YOU C++ SMALL PROJECTS
-2>I CAN DO TOUR HOME WORK ON C++
+1>to discuss and solve some good problems on c++
+2>to make some beginerr friendly projects
 ---------------------------------------------------------------------------------------
 HI Friends,
 my name is psv.mourya and here i can assure that i can complete your small projects 
